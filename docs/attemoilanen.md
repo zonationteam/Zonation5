@@ -1,0 +1,1 @@
+Research Director Atte Moilanen is the originator of Zonation around 2003. He is the project leader for Zonation 5 development. See Google Scholar for Atte's [research profile](https://scholar.google.fi/citations?user=YcHg1ocAAAAJ&hl=en).

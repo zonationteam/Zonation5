@@ -1,0 +1,1 @@
+Ilmari Kohonen is a technical assistant in the Zonation 5 development project. He has a background in ecology and is broadly interested in biodiversity conservation topics and related research methods.
