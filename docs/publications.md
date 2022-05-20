@@ -1,6 +1,6 @@
 **The first Zonation 5 reference; new methods**
 
-[Moilanen, A., Lehtinen, P., Kohonen, I., Virtanen, E., Jalkanen, J. and Kujala, H. 2022. Novel methods for spatial prioritization with applications in conservation, land use planning and ecological impact avoidance. Methods in Ecology and Evolution, early online](https://doi.org/10.1111/2041-210X.13819)
+[Moilanen, A., Lehtinen, P., Kohonen, I., Virtanen, E., Jalkanen, J. and Kujala, H. 2022. Novel methods for spatial prioritization with applications in conservation, land use planning and ecological impact avoidance. Methods in Ecology and Evolution](https://doi.org/10.1111/2041-210X.13819)
 
 **The concepts and structure of spatial prioritization, and the role of data quality**
 
