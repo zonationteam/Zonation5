@@ -85,3 +85,7 @@ Di Minin, E., Soutullo, A., Bartesaghi, L., Rios, M., Szephegyi, M. N. and A. Mo
 *Use of prioritization in the context of biodiversity offsets*
 
 [Kujala, H., Whitehead, A.L., Morris, W.K. & Wintle, B.A. 2015. Towards strategic offsetting of biodiversity loss using spatial prioritization concepts and tools: A case study on mining impacts in Australia. Biological Conservation 192: 513--21.](https://doi.org/10.1016/j.biocon.2015.08.017)
+
+*Effects of data uncertainty on the stability of priorities*
+
+[Kujala, H., Minunno, F., Junttila, V., Mikkonen, N., Mäkelä, A., Virkkala, R., Akujärvi, A., Leikola, N. & Heikkinen, R.K. 2023 Role of data uncertainty when identifying important areas for biodiversity and carbon in boreal forests. Ambio 52: 1804-1818.](https://doi.org/10.1007/s13280-023-01908-2)

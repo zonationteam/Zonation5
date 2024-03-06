@@ -1,6 +1,6 @@
 # Credits
 
-Copyright © 2022 Zonation 5 software development team
+Copyright © 2022-2024 Zonation 5 software development team
 
 #### Concept and project lead
 [Atte Moilanen](attemoilanen.md)
@@ -18,10 +18,10 @@ Pauli Lehtinen, Atte Moilanen, Heini Kujala, [Ilmari Kohonen](ilmarikohonen.md) 
 Pauli Lehtinen
 
 #### Testing 
-Ilmari Kohonen, Pauli Lehtinen, Joel Jalkanen, Heini Kujala and [Elina Virtanen](elinavirtanen.md)
+Ilmari Kohonen, Ilkka Kivistö, Pauli Lehtinen, Joel Jalkanen, Heini Kujala and [Elina Virtanen](elinavirtanen.md)
 
 #### Supporting material
-Ilmari Kohonen, Heini Kujala, Joel Jalkanen, Elina Virtanen, Pauli Lehtinen and Atte Moilanen
+Ilmari Kohonen, Heini Kujala, Joel Jalkanen, Elina Virtanen, Pauli Lehtinen, Atte Moilanen and Ilkka Kivistö
 
 #### Main project funding
 We gratefully acknowledge Kone Foundation, grant #201803179.

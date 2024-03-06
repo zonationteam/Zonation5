@@ -14,13 +14,15 @@ Zonation 5 is arguably the most powerful approach to spatial priority ranking cu
 [![Screenshot](screenshot2.png)](screenshot2.png)
 *Zonation 5 curves tab showing performance curves*
 
-## Download Zonation 5 v1.0
+## Download Zonation 5 v2.0
 
-[Windows installer](https://github.com/zonationteam/Zonation5/releases/download/v1.0/Zonation5_Windows.zip)
+[Release notes](https://github.com/zonationteam/Zonation5/releases/v2.0)
 
-[Linux AppImage](https://github.com/zonationteam/Zonation5/releases/download/v1.0/Zonation5_Linux.zip)
+[Windows installer](https://github.com/zonationteam/Zonation5/releases/download/v2.0/Zonation5_Windows.zip)
 
-[Manual and example setups](https://github.com/zonationteam/Zonation5/releases/download/v1.0/manual_and_example_setups.zip)
+[Linux AppImage](https://github.com/zonationteam/Zonation5/releases/download/v2.0/Zonation5_Linux.zip)
+
+[Manual and example setups](https://github.com/zonationteam/Zonation5/releases/download/v2.0/manual_and_example_setups.zip)
 
 See the manual for installation instructions.
 
