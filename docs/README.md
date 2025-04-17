@@ -22,6 +22,8 @@ Zonation 5 is arguably the most powerful approach to spatial priority ranking cu
 
 [Linux AppImage](https://github.com/zonationteam/Zonation5/releases/latest/download/Zonation5_Linux.zip)
 
+[Apptainer definition file](https://github.com/zonationteam/Zonation5/releases/latest/download/Zonation5.def)
+
 [Manual and example setups](https://github.com/zonationteam/Zonation5/releases/download/v2.0/manual_and_example_setups.zip)
 
 See the manual for installation instructions.
