@@ -14,7 +14,7 @@ Zonation 5 is arguably the most powerful approach to spatial priority ranking cu
 [![Screenshot](screenshot2.png)](screenshot2.png)
 *Zonation 5 curves tab showing performance curves*
 
-## Download Zonation 5 v2.2
+## Download Zonation 5 v2.3
 
 [Release notes](https://github.com/zonationteam/Zonation5/releases/latest)
 
