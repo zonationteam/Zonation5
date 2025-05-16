@@ -26,9 +26,13 @@ Zonation 5 is arguably the most powerful approach to spatial priority ranking cu
 
 [Manual and example setups](https://github.com/zonationteam/Zonation5/releases/download/v2.0/manual_and_example_setups.zip)
 
-[Training material etc.](https://github.com/zonationteam)
-
 See the manual for installation instructions.
+
+## Additional materials
+
+[Training material](https://github.com/zonationteam/Zonation5-training)
+
+[See also Zonation team's github pages](https://github.com/zonationteam)
 
 ## License
 Zonation 5 is distributed as is, freely under [GNU General Public License (GPL) version 3 (#GNUGPL) (#GNUGPLv3) license.](https://www.gnu.org/licenses/gpl-3.0.html)
