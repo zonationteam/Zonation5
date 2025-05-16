@@ -26,6 +26,8 @@ Zonation 5 is arguably the most powerful approach to spatial priority ranking cu
 
 [Manual and example setups](https://github.com/zonationteam/Zonation5/releases/download/v2.0/manual_and_example_setups.zip)
 
+[Training material etc.](https://github.com/zonationteam)
+
 See the manual for installation instructions.
 
 ## License
